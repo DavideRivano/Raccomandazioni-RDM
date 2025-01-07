@@ -3,6 +3,7 @@ import tkinter as tk
 from tkinter import messagebox
 from tkinter import scrolledtext
 import random
+#inserire il tuo percorso file 
 spotify_cleaned = pd.read_csv("/Users/daviderivano/Desktop/Spotify-2000.csv")
 
 def recommend_songs_by_preferences():
