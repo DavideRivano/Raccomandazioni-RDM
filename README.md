@@ -21,8 +21,8 @@ Le raccomandazioni cambiano a ogni esecuzione.
 
 Assicurati di avere Python installato sul uo computer (almeno Python 3.10+).
 Clona questo repository:
-git clone https://github.com/tuo-nome-utente/sistema-raccomandazione-canzoni.git 
-cd sistema-raccomandazione-canzoni
+git clone (https://github.com/DavideRivano/Raccomandazioni-RDM/tree/main)
+cd Raccomandazioni-RDM
 Installa le dipendenze richieste: 
 pip install pandas tkinter
 Assicurati di avere il dataset 'Spotify-2000.csv' nel percorso appropriato.
