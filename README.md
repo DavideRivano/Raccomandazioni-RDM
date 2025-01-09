@@ -31,14 +31,20 @@ Installa le dipendenze richieste: 
 pip install pandas tkinter
 
 Assicurati di avere il dataset 'Spotify-2000.csv' e seleziona il percorso appropriato.
+(il link al dataset si trova nella sezione Aknowledgment)
 
 # Utilizzo
 
 Esegui l'applicazione con: 
+
 python app.py
+
 Segui i passaggi nell'interfaccia:
+
 -Seleziona il tuo umore e il livello di energia desiderato.
+
 -Premi il bottone "Suggerisci Canzoni" per generare fino a 4 raccomandazioni.
-Leggi i risultati nella finestra dedicata.
+
+-Leggi i risultati nella finestra dedicata.
 
 
