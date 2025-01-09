@@ -37,7 +37,7 @@ Assicurati di avere il dataset 'Spotify-2000.csv' e seleziona il percorso approp
 
 Esegui l'applicazione con: 
 
-python app.py
+python Raccomandazione_musicale.py
 
 Segui i passaggi nell'interfaccia:
 
