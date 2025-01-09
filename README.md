@@ -21,14 +21,14 @@ I risultati saranno unici dal momento che le raccomandazioni cambiano ad ogni es
 
 # Installazione
 
-Assicurati di avere Python installato sul uo computer (almeno Python 3.10+).
+Assicurati di avere Python installato sul tuo computer (almeno Python 3.10+).
 
 Clona questo repository:
 git clone (https://github.com/DavideRivano/Raccomandazioni-RDM/tree/main)
 
 Installa le dipendenze richieste: 
 pip install pandas tkinter
-Assicurati di avere il dataset 'Spotify-2000.csv' nel percorso appropriato.
+Assicurati di avere il dataset 'Spotify-2000.csv' e seleziona il percorso appropriato.
 
 # Utilizzo
 
