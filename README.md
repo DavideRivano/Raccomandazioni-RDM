@@ -43,7 +43,7 @@ Segui i passaggi nell'interfaccia:
 
 -Seleziona il tuo umore e il livello di energia desiderato.
 
--Premi il bottone "Suggerisci Canzoni" per generare fino a 4 raccomandazioni.
+-Premi il bottone "Suggerisci Canzoni" per generare 4 raccomandazioni.
 
 -Leggi i risultati nella finestra dedicata.
 
