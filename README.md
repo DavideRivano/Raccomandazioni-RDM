@@ -27,7 +27,9 @@ Clona questo repository:
 git clone (https://github.com/DavideRivano/Raccomandazioni-RDM/tree/main)
 
 Installa le dipendenze richieste: 
+
 pip install pandas tkinter
+
 Assicurati di avere il dataset 'Spotify-2000.csv' e seleziona il percorso appropriato.
 
 # Utilizzo
